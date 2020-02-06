@@ -19,6 +19,8 @@ Then open the `discount_roulette.arproj` file.
 ![](instructions/part8.png)
 ![](instructions/part9.png)
 
+Note: The images only change once you're recording. Hold down the record button in Instagram and after 1.5 seconds you'll see it start.
+
 ## Other configurable settings: 
 ![](instructions/config1.png)  
 ![](instructions/config2.png)  
